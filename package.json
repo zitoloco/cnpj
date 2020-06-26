@@ -1,0 +1,14 @@
+{
+  "name": "cnpj",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "cnpj": "src/cnpj.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cpf-cnpj-validator": "^1.0.2"
+  }
+}
